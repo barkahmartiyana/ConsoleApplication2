@@ -20,8 +20,8 @@ namespace ConsoleApplication2
             lebar = int.Parse(Console.ReadLine());
 
             Console.WriteLine("------------------");
-            Console.WriteLine("Luas persegi panjang: " + panjang * lebar);
-            Console.WriteLine("Keliling persegi panjang: "  (2*panjang + 2*lebar) );
+            Console.WriteLine("Luas persegi panjang = " + panjang * lebar);
+            Console.WriteLine("Keliling persegi panjang = "  (2*panjang + 2*lebar) );
             Console.WriteLine("------------------");
 
             Console.ReadLine();
